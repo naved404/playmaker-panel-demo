@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/playmaker-panel-demo/login/static/css/main.9650ecf3.chunk.css",
-    "main.js": "/playmaker-panel-demo/login/static/js/main.d820a397.chunk.js",
-    "main.js.map": "/playmaker-panel-demo/login/static/js/main.d820a397.chunk.js.map",
+    "main.js": "/playmaker-panel-demo/login/static/js/main.7fd7135c.chunk.js",
+    "main.js.map": "/playmaker-panel-demo/login/static/js/main.7fd7135c.chunk.js.map",
     "runtime-main.js": "/playmaker-panel-demo/login/static/js/runtime-main.cf1061fd.js",
     "runtime-main.js.map": "/playmaker-panel-demo/login/static/js/runtime-main.cf1061fd.js.map",
     "static/js/2.8e3b3727.chunk.js": "/playmaker-panel-demo/login/static/js/2.8e3b3727.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.cf1061fd.js",
     "static/js/2.8e3b3727.chunk.js",
     "static/css/main.9650ecf3.chunk.css",
-    "static/js/main.d820a397.chunk.js"
+    "static/js/main.7fd7135c.chunk.js"
   ]
 }
