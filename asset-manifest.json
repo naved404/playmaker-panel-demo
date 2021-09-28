@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/playmaker-panel-demo/static/css/main.1afd8c5a.chunk.css",
-    "main.js": "/playmaker-panel-demo/static/js/main.00906473.chunk.js",
-    "main.js.map": "/playmaker-panel-demo/static/js/main.00906473.chunk.js.map",
-    "runtime-main.js": "/playmaker-panel-demo/static/js/runtime-main.42db66ba.js",
-    "runtime-main.js.map": "/playmaker-panel-demo/static/js/runtime-main.42db66ba.js.map",
-    "static/js/2.84b991e0.chunk.js": "/playmaker-panel-demo/static/js/2.84b991e0.chunk.js",
-    "static/js/2.84b991e0.chunk.js.map": "/playmaker-panel-demo/static/js/2.84b991e0.chunk.js.map",
-    "static/js/3.e4c0ada9.chunk.js": "/playmaker-panel-demo/static/js/3.e4c0ada9.chunk.js",
-    "static/js/3.e4c0ada9.chunk.js.map": "/playmaker-panel-demo/static/js/3.e4c0ada9.chunk.js.map",
-    "index.html": "/playmaker-panel-demo/index.html",
-    "static/css/main.1afd8c5a.chunk.css.map": "/playmaker-panel-demo/static/css/main.1afd8c5a.chunk.css.map",
-    "static/js/2.84b991e0.chunk.js.LICENSE.txt": "/playmaker-panel-demo/static/js/2.84b991e0.chunk.js.LICENSE.txt",
-    "static/media/logo.3b4553be.svg": "/playmaker-panel-demo/static/media/logo.3b4553be.svg",
-    "static/media/pad.04b0bda3.svg": "/playmaker-panel-demo/static/media/pad.04b0bda3.svg"
+    "main.css": "/playmaker-panel-demo/login/static/css/main.9650ecf3.chunk.css",
+    "main.js": "/playmaker-panel-demo/login/static/js/main.8d668f05.chunk.js",
+    "main.js.map": "/playmaker-panel-demo/login/static/js/main.8d668f05.chunk.js.map",
+    "runtime-main.js": "/playmaker-panel-demo/login/static/js/runtime-main.09408734.js",
+    "runtime-main.js.map": "/playmaker-panel-demo/login/static/js/runtime-main.09408734.js.map",
+    "static/js/2.436b7804.chunk.js": "/playmaker-panel-demo/login/static/js/2.436b7804.chunk.js",
+    "static/js/2.436b7804.chunk.js.map": "/playmaker-panel-demo/login/static/js/2.436b7804.chunk.js.map",
+    "static/js/3.eba21af9.chunk.js": "/playmaker-panel-demo/login/static/js/3.eba21af9.chunk.js",
+    "static/js/3.eba21af9.chunk.js.map": "/playmaker-panel-demo/login/static/js/3.eba21af9.chunk.js.map",
+    "index.html": "/playmaker-panel-demo/login/index.html",
+    "static/css/main.9650ecf3.chunk.css.map": "/playmaker-panel-demo/login/static/css/main.9650ecf3.chunk.css.map",
+    "static/js/2.436b7804.chunk.js.LICENSE.txt": "/playmaker-panel-demo/login/static/js/2.436b7804.chunk.js.LICENSE.txt",
+    "static/media/logo.3b4553be.svg": "/playmaker-panel-demo/login/static/media/logo.3b4553be.svg",
+    "static/media/pad.04b0bda3.svg": "/playmaker-panel-demo/login/static/media/pad.04b0bda3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.42db66ba.js",
-    "static/js/2.84b991e0.chunk.js",
-    "static/css/main.1afd8c5a.chunk.css",
-    "static/js/main.00906473.chunk.js"
+    "static/js/runtime-main.09408734.js",
+    "static/js/2.436b7804.chunk.js",
+    "static/css/main.9650ecf3.chunk.css",
+    "static/js/main.8d668f05.chunk.js"
   ]
 }
