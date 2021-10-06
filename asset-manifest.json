@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/playmaker-panel-demo/login/static/css/main.9650ecf3.chunk.css",
-    "main.js": "/playmaker-panel-demo/login/static/js/main.7fd7135c.chunk.js",
-    "main.js.map": "/playmaker-panel-demo/login/static/js/main.7fd7135c.chunk.js.map",
-    "runtime-main.js": "/playmaker-panel-demo/login/static/js/runtime-main.cf1061fd.js",
-    "runtime-main.js.map": "/playmaker-panel-demo/login/static/js/runtime-main.cf1061fd.js.map",
-    "static/js/2.8e3b3727.chunk.js": "/playmaker-panel-demo/login/static/js/2.8e3b3727.chunk.js",
-    "static/js/2.8e3b3727.chunk.js.map": "/playmaker-panel-demo/login/static/js/2.8e3b3727.chunk.js.map",
-    "static/js/3.c0edc252.chunk.js": "/playmaker-panel-demo/login/static/js/3.c0edc252.chunk.js",
-    "static/js/3.c0edc252.chunk.js.map": "/playmaker-panel-demo/login/static/js/3.c0edc252.chunk.js.map",
+    "main.js": "/playmaker-panel-demo/login/static/js/main.2c2865ef.chunk.js",
+    "main.js.map": "/playmaker-panel-demo/login/static/js/main.2c2865ef.chunk.js.map",
+    "runtime-main.js": "/playmaker-panel-demo/login/static/js/runtime-main.ec526975.js",
+    "runtime-main.js.map": "/playmaker-panel-demo/login/static/js/runtime-main.ec526975.js.map",
+    "static/js/2.64d30991.chunk.js": "/playmaker-panel-demo/login/static/js/2.64d30991.chunk.js",
+    "static/js/2.64d30991.chunk.js.map": "/playmaker-panel-demo/login/static/js/2.64d30991.chunk.js.map",
+    "static/js/3.a4388477.chunk.js": "/playmaker-panel-demo/login/static/js/3.a4388477.chunk.js",
+    "static/js/3.a4388477.chunk.js.map": "/playmaker-panel-demo/login/static/js/3.a4388477.chunk.js.map",
     "index.html": "/playmaker-panel-demo/login/index.html",
     "static/css/main.9650ecf3.chunk.css.map": "/playmaker-panel-demo/login/static/css/main.9650ecf3.chunk.css.map",
-    "static/js/2.8e3b3727.chunk.js.LICENSE.txt": "/playmaker-panel-demo/login/static/js/2.8e3b3727.chunk.js.LICENSE.txt",
+    "static/js/2.64d30991.chunk.js.LICENSE.txt": "/playmaker-panel-demo/login/static/js/2.64d30991.chunk.js.LICENSE.txt",
     "static/media/logo.3b4553be.svg": "/playmaker-panel-demo/login/static/media/logo.3b4553be.svg",
     "static/media/pad.04b0bda3.svg": "/playmaker-panel-demo/login/static/media/pad.04b0bda3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf1061fd.js",
-    "static/js/2.8e3b3727.chunk.js",
+    "static/js/runtime-main.ec526975.js",
+    "static/js/2.64d30991.chunk.js",
     "static/css/main.9650ecf3.chunk.css",
-    "static/js/main.7fd7135c.chunk.js"
+    "static/js/main.2c2865ef.chunk.js"
   ]
 }
