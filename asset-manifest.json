@@ -18,10 +18,10 @@
     "static/media/pad.04b0bda3.svg": "/playmaker-panel-demo/static/media/pad.04b0bda3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e98ad9d.js",
-    "static/css/2.8cebfa1f.chunk.css",
-    "static/js/2.f0941d2e.chunk.js",
-    "static/css/main.ffb7bb2b.chunk.css",
-    "static/js/main.b7f59131.chunk.js"
+    "/playmaker-panel-demo/static/js/runtime-main.4e98ad9d.js",
+    "/playmaker-panel-demo/static/css/2.8cebfa1f.chunk.css",
+    "/playmaker-panel-demo/static/js/2.f0941d2e.chunk.js",
+    "/playmaker-panel-demo/static/css/main.ffb7bb2b.chunk.css",
+    "/playmaker-panel-demo/static/js/main.b7f59131.chunk.js"
   ]
 }
